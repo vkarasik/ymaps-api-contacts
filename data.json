@@ -1,0 +1,194 @@
+{
+    "yellowshop": {
+        "shops": [
+            {
+                "coordinates": [
+                    53.890224,
+                    27.554375
+                ],
+                "properties": {
+                    "hintContent": "Yellowshop",
+                    "balloonContentHeader": "Yellowshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.yellowshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.859605,
+                    27.674022
+                ],
+                "properties": {
+                    "hintContent": "Yellowshop",
+                    "balloonContentHeader": "Yellowshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.yellowshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.933265,
+                    27.502544
+                ],
+                "properties": {
+                    "hintContent": "Yellowshop",
+                    "balloonContentHeader": "Yellowshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.yellowshop.com</a>"
+                }
+            }
+        ],
+        "options": {
+            "iconLayout": "default#image",
+            "iconImageHref": "icons/icon_pin_yellow.svg",
+            "iconImageSize": [
+                35,
+                35
+            ]
+        }
+    },
+    "greenshop": {
+        "shops": [
+            {
+                "coordinates": [
+                    53.908554,
+                    27.548599
+                ],
+                "properties": {
+                    "hintContent": "Greenshop",
+                    "balloonContentHeader": "Greenshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.greenshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.841858,
+                    27.586150
+                ],
+                "properties": {
+                    "hintContent": "Greenshop",
+                    "balloonContentHeader": "Greenshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.greenshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.964541,
+                    27.541666
+                ],
+                "properties": {
+                    "hintContent": "Greenshop",
+                    "balloonContentHeader": "Greenshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.greenshop.com</a>"
+                }
+            }
+        ],
+        "options": {
+            "iconLayout": "default#image",
+            "iconImageHref": "icons/icon_pin_green.svg",
+            "iconImageSize": [
+                35,
+                35
+            ]
+        }
+    },
+    "redshop": {
+        "shops": [
+            {
+                "coordinates": [
+                    53.905557,
+                    27.433740
+                ],
+                "properties": {
+                    "hintContent": "Redshop",
+                    "balloonContentHeader": "Redshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.redshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.849934,
+                    27.493748
+                ],
+                "properties": {
+                    "hintContent": "Redshop",
+                    "balloonContentHeader": "Redshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.redshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.870872,
+                    27.644835
+                ],
+                "properties": {
+                    "hintContent": "Redshop",
+                    "balloonContentHeader": "Redshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">www.redshop.com</a>"
+                }
+            }
+        ],
+        "options": {
+            "iconLayout": "default#image",
+            "iconImageHref": "icons/icon_pin_red.svg",
+            "iconImageSize": [
+                35,
+                35
+            ]
+        }
+    },
+    "purpleshop": {
+        "shops": [
+            {
+                "coordinates": [
+                    53.888887,
+                    27.580552
+                ],
+                "properties": {
+                    "hintContent": "Purpleshop",
+                    "balloonContentHeader": "Purpleshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">purpleshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.933439,
+                    27.632295
+                ],
+                "properties": {
+                    "hintContent": "Purpleshop",
+                    "balloonContentHeader": "Purpleshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">purpleshop.com</a>"
+                }
+            },
+            {
+                "coordinates": [
+                    53.857699,
+                    27.469636
+                ],
+                "properties": {
+                    "hintContent": "Purpleshop",
+                    "balloonContentHeader": "Purpleshop",
+                    "balloonContentBody": "Phone: +375 00 000-00-00 <br />Work time: 10:00-20:00",
+                    "balloonContentFooter": "<a href=\"#\">purpleshop.com</a>"
+                }
+            }
+        ],
+        "options": {
+            "iconLayout": "default#image",
+            "iconImageHref": "icons/icon_pin_purple.svg",
+            "iconImageSize": [
+                35,
+                35
+            ]
+        }
+    }
+}

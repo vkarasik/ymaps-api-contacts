@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://api-maps.yandex.ru/2.1/?apikey=6cd0443b-0b85-4074-8581-5cc018b8ffd3&lang=ru_RU"></script>
+    <link rel="stylesheet" href="css/styles.css">
+    <title>API Yandex Maps</title>
+</head>
+
+<body>
+    <h1>Contacts page with Yandex Maps API</h1>
+    <div class="container">
+        <div class="location">
+            <button class="location-btn" id="yellowshop">
+                <span class="location-btn__icon location-btn__icon_yellow"></span>
+                <span class="location-btn__text">Yellowshop</span>
+            </button>
+            <button class="location-btn" id="redshop">
+                <span class="location-btn__icon location-btn__icon_red"></span>
+                <span class="location-btn__text">Redshop</span>
+            </button>
+            <button class="location-btn" id="greenshop">
+                <span class="location-btn__icon location-btn__icon_green"></span>
+                <span class="location-btn__text">Greenshop</span>
+            </button>
+            <button class="location-btn" id="purpleshop">
+                <span class="location-btn__icon location-btn__icon_purple"></span>
+                <span class="location-btn__text">Purpleshop</span>
+            </button>
+            <button class="location-btn" id="show-all">
+                <span class="location-btn__icon"></span>
+                <span class="location-btn__text">Show All</span>
+            </button>
+        </div>
+        <div id="map" class="map"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
